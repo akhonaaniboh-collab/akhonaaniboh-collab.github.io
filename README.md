@@ -13,7 +13,7 @@
 5. GitHub will provide the public website URL.
 
 ## AI-assisted development
-This website was created with AI assistance. The content was based on the student's CV and information supplied for the portfolio project. The student should review the HTML, CSS and JavaScript and be able to explain the main sections and how the mobile navigation works.
+This website was created with AI assistance. The content was based on the student's CV and information supplied for the portfolio project. 
 
 ## Project files
 The portfolio describes:
